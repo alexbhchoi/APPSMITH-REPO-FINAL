@@ -29,11 +29,23 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Trade Information_accounts",
-              "name": "accounts",
+              "id": "Trade Information_account_num",
+              "name": "account_num",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Trade Information_trade_information",
+              "name": "trade_information",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Select1.selectedOptionLabel"
+              ],
               "timeoutInMillisecond": 10000
             }
           ]
