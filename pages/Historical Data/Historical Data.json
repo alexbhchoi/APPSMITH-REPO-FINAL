@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "GET Historical Data",
-    "slug": "get-historical-data",
+    "name": "Historical Data",
+    "slug": "historical-data",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 460,
+          "bottomRow": 1100,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -29,18 +29,30 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "GET Historical Data_accounts",
-              "name": "accounts",
+              "id": "Historical Data_GET_assetIDs",
+              "name": "GET_assetIDs",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Historical Data_GET_historicaldata",
+              "name": "GET_historicaldata",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Select_AssetID.selectedOptionLabel"
+              ],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "GET Historical Data",
+        "id": "Historical Data",
         "deleted": false,
         "policies": [],
         "userPermissions": []

@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "GET Historical Data",
+      "id": "Historical Data",
       "isDefault": true
+    },
+    {
+      "id": "Update User Information",
+      "isDefault": false
     }
   ],
   "viewMode": false,
