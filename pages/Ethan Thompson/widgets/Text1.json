@@ -28,7 +28,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Hello, Ethan Thompson",
+    "text": "Hello, Ethan Thompson!",
     "key": "15t23u33ac",
     "isDeprecated": false,
     "rightColumn": 20,
