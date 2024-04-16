@@ -1,7 +1,11 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "CreateTrade",
+      "isDefault": false
+    },
+    {
+      "id": "UpdateInvestmentTransaction",
       "isDefault": true
     }
   ],
