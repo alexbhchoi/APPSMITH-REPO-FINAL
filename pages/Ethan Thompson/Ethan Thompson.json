@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Update User Information",
-    "slug": "update-user-information",
+    "name": "Ethan Thompson",
+    "slug": "ethan-thompson",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1000,
+          "bottomRow": 460,
           "containerStyle": "none",
           "snapRows": 72,
           "parentRowSpace": 1,
@@ -25,23 +25,10 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Update User Information_GET_user_information",
-              "name": "GET_user_information",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "appsmith.store.userID"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Update User Information",
+        "id": "Ethan Thompson",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -52,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "661ecf0e96114c0faafecb62_661ed45e96114c0faafecb68"
+  "gitSyncId": "661ecf0e96114c0faafecb62_661ef3ae96114c0faafecb8d"
 }

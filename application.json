@@ -2,10 +2,26 @@
   "pages": [
     {
       "id": "Historical Data",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Update User Information",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": true
+    },
+    {
+      "id": "Ethan Thompson",
+      "isDefault": false
+    },
+    {
+      "id": "Alex Reynolds",
+      "isDefault": false
+    },
+    {
+      "id": "Randall Smith",
       "isDefault": false
     }
   ],
@@ -13,7 +29,14 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F5D1D1",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
