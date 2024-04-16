@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "GET Historical Data",
+    "slug": "get-historical-data",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_accounts",
+              "id": "GET Historical Data_accounts",
               "name": "accounts",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -40,14 +40,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "GET Historical Data",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "661c56bc27b62c21c1b62a6d_661c56bc27b62c21c1b62a6f"
