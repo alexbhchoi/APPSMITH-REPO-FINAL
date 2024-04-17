@@ -192,7 +192,7 @@
                 "iconAlign": "left",
                 "position": 2,
                 "isDisabled": false,
-                "sourceData": 13,
+                "sourceData": 3,
                 "fieldType": "Number Input"
             },
             "Amount": {
@@ -214,7 +214,7 @@
                 "iconAlign": "left",
                 "position": 0,
                 "isDisabled": false,
-                "sourceData": 16000,
+                "sourceData": 14800,
                 "fieldType": "Number Input"
             },
             "InvestmentID": {
@@ -236,7 +236,7 @@
                 "iconAlign": "left",
                 "position": 3,
                 "isDisabled": false,
-                "sourceData": 13,
+                "sourceData": 3,
                 "fieldType": "Number Input"
             },
             "Date": {
@@ -280,7 +280,7 @@
                 "iconAlign": "left",
                 "position": 4,
                 "isDisabled": false,
-                "sourceData": 13,
+                "sourceData": 3,
                 "fieldType": "Number Input"
             }
         },

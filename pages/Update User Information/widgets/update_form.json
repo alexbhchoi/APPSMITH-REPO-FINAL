@@ -137,7 +137,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 75,
+    "originalBottomRow": 79,
     "useSourceData": false,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",
@@ -332,7 +332,7 @@
     },
     "dynamicPropertyPathList": [],
     "displayName": "JSON Form",
-    "bottomRow": 79,
+    "bottomRow": 75,
     "fieldLimitExceeded": false,
     "parentRowSpace": 10,
     "title": "Update User Information Form",
