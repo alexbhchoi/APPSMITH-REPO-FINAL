@@ -1,12 +1,20 @@
 {
   "pages": [
     {
-      "id": "CreateTrade",
+      "id": "UpdateInvestmentTransaction",
+      "isDefault": true
+    },
+    {
+      "id": "CreateIncome",
       "isDefault": false
     },
     {
-      "id": "UpdateInvestmentTransaction",
-      "isDefault": true
+      "id": "GetTradeInfo",
+      "isDefault": false
+    },
+    {
+      "id": "GetRetirementAccountInfo",
+      "isDefault": false
     }
   ],
   "viewMode": false,
