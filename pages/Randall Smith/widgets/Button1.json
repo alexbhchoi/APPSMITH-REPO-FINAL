@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 31,
     "widgetName": "Button1",
-    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "buttonColor": "#a855f7",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [
@@ -21,10 +21,7 @@
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "leftColumn": 17,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [],
     "text": "Make a Retirement Transaction",
     "isDisabled": false,
     "key": "ytbh1wakle",
@@ -44,7 +41,7 @@
     "responsiveBehavior": "hug",
     "originalTopRow": 27,
     "disabledWhenInvalid": false,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "borderRadius": "1.5rem",
     "mobileLeftColumn": 17,
     "originalBottomRow": 31,
     "buttonVariant": "SECONDARY",

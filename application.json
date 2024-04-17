@@ -38,7 +38,7 @@
   "unreadCommentThreads": 0,
   "color": "#F5D1D1",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
     "type": "DESKTOP"

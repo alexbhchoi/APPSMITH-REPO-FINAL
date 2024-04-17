@@ -17,13 +17,12 @@
     "mobileRightColumn": 10,
     "animateLoading": true,
     "overflow": "NONE",
-    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "fontFamily": "Poppins",
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
         {"key": "borderRadius"}
     ],
     "shouldTruncate": false,
@@ -31,7 +30,7 @@
     "text": "Hello, Ethan Thompson!",
     "key": "15t23u33ac",
     "isDeprecated": false,
-    "rightColumn": 20,
+    "rightColumn": 30,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "gp0xc2x1jq",
