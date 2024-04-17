@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 22,
-    "bottomRow": 26,
+    "topRow": 15,
+    "bottomRow": 19,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "Poppins",
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 20,
+    "leftColumn": 23,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -30,7 +30,7 @@
     "text": "Choose a persona to act as:",
     "key": "15t23u33ac",
     "isDeprecated": false,
-    "rightColumn": 41,
+    "rightColumn": 47,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "byminzggcz",
