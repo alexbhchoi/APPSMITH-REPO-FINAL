@@ -15,55 +15,13 @@
     {
       "id": "GetRetirementAccountInfo",
       "isDefault": false
-    },
-    {
-      "id": "Historical Data",
-      "isDefault": false
-    },
-    {
-      "id": "Update User Information",
-      "isDefault": false
-    },
-    {
-      "id": "Home Page",
-      "isDefault": true
-    },
-    {
-      "id": "Ethan Thompson",
-      "isDefault": false
-    },
-    {
-      "id": "Alex Reynolds",
-      "isDefault": false
-    },
-    {
-      "id": "Randall Smith",
-      "isDefault": false
-    },
-    {
-      "id": "DELETE instruments",
-      "isDefault": false
-    },
-    {
-      "id": "DELETE investments",
-      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F5D1D1",
-  "unpublishedAppLayout": {
-    "type": "FLUID"
-  },
-  "publishedAppLayout": {
-    "type": "FLUID"
-  },
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
-    }
-  ],
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
