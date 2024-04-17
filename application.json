@@ -1,6 +1,14 @@
 {
   "pages": [
     {
+      "id": "DELETE Investment Data",
+      "isDefault": true
+    },
+    {
+      "id": "DELETE Instrument Data",
+      "isDefault": false
+    }
+    {
       "id": "Historical Data",
       "isDefault": false
     },
