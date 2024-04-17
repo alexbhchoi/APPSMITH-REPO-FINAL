@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Update User Information",
-    "slug": "update-user-information",
+    "name": "UpdateInvestmentTransaction",
+    "slug": "updateinvestmenttransaction",
     "layouts": [
       {
         "viewMode": false,
@@ -13,14 +13,14 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 790,
+          "bottomRow": 940,
           "containerStyle": "none",
-          "snapRows": 72,
+          "snapRows": 67,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 89,
-          "minHeight": 740,
+          "minHeight": 690,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -28,12 +28,22 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Update User Information_GET_user_information",
-              "name": "GET_user_information",
+              "id": "UpdateInvestmentTransaction_GetTransactionID",
+              "name": "GetTransactionID",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "UpdateInvestmentTransaction_GetTransaction",
+              "name": "GetTransaction",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "appsmith.store.userID"
+                "Select1.selectedOptionLabel"
               ],
               "timeoutInMillisecond": 10000
             }
@@ -41,7 +51,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Update User Information",
+        "id": "UpdateInvestmentTransaction",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -52,5 +62,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "661ecf0e96114c0faafecb62_661ed45e96114c0faafecb68"
+  "gitSyncId": "661f5bf69ce3fd42aab31908_661f5c8e9ce3fd42aab31929"
 }
