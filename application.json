@@ -25,7 +25,11 @@
       "isDefault": false
     },
     {
-      "id": "Page1",
+      "id": "DELETE instruments",
+      "isDefault": false
+    },
+    {
+      "id": "DELETE investments",
       "isDefault": false
     }
   ],
