@@ -22,11 +22,11 @@ Start taking control of your financial future today with our Investment Portfoli
 ## User Interface
 
 
-Homepage welcomes users to the application
-Homepage allows user to act as a persona via button options
-Access persona from buttons which takes you to another welcome screen
-User persona page presents user to options where they can perform actions such as updating, deleting, adding, or retrieving financial information from the database.
-Execute actions (update, delete, add, get) with ease.
+- Homepage welcomes users to the application
+- Homepage allows user to act as a persona via button options
+- Access persona from buttons which takes you to another welcome screen
+- User persona page presents user to options where they can perform actions such as updating, deleting, adding, or retrieving financial information from the database.
+- Execute actions (update, delete, add, get) with ease.
 
 
 
