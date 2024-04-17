@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 15,
-    "bottomRow": 21,
+    "topRow": 14,
+    "bottomRow": 18,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "Poppins",
     "parentColumnSpace": 13.546875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 21,
+    "leftColumn": 35,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -30,7 +30,7 @@
     "text": "What would you like to do today?",
     "key": "w9nvnvh4e1",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 60,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "itkfv30k9a",
