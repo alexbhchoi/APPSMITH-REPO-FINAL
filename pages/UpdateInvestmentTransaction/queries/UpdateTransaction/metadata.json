@@ -30,7 +30,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{UpdateInvTranForm.formData}}",
+      "body": "{{ UpdateInvTranForm.formData }}",
       "bodyFormData": [],
       "httpMethod": "PUT",
       "httpVersion": "HTTP11",
@@ -54,7 +54,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "UpdateInvTranForm.formData"
+      " UpdateInvTranForm.formData "
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

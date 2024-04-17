@@ -204,7 +204,7 @@
                 "isCustomField": false,
                 "defaultValue": "{{((sourceData, formData, fieldState) => (sourceData.Amount))(UpdateInvTranForm.sourceData, UpdateInvTranForm.formData, UpdateInvTranForm.fieldState)}}",
                 "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(UpdateInvTranForm.sourceData, UpdateInvTranForm.formData, UpdateInvTranForm.fieldState)}}",
-                "dataType": "number",
+                "dataType": "string",
                 "accessor": "Amount",
                 "isVisible": true,
                 "label": "Amount",
@@ -215,8 +215,8 @@
                 "iconAlign": "left",
                 "position": 0,
                 "isDisabled": false,
-                "sourceData": 24500,
-                "fieldType": "Number Input"
+                "sourceData": "",
+                "fieldType": "Text Input"
             },
             "InvestmentID": {
                 "labelTextSize": "0.875rem",
@@ -312,7 +312,7 @@
         "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
         "buttonVariant": "PRIMARY"
     },
-    "dynamicPropertyPathList": [{"key": "onSubmit"}],
+    "dynamicPropertyPathList": [],
     "displayName": "JSON Form",
     "bottomRow": 78,
     "fieldLimitExceeded": false,

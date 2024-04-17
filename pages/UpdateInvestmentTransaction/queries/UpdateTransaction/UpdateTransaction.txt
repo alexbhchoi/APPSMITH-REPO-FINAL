@@ -1,1 +1,1 @@
-{{UpdateInvTranForm.formData}}
+{{ UpdateInvTranForm.formData }}
