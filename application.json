@@ -31,6 +31,22 @@
     {
       "id": "DELETE investments",
       "isDefault": false
+    },
+    {
+      "id": "UpdateInvestmentTransaction",
+      "isDefault": false
+    },
+    {
+      "id": "GetRetirementAccountInfo",
+      "isDefault": false
+    },
+    {
+      "id": "GetTradeInfo",
+      "isDefault": false
+    },
+    {
+      "id": "CreateIncome",
+      "isDefault": false
     }
   ],
   "viewMode": false,
