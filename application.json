@@ -39,6 +39,14 @@
     {
       "id": "CreateIncome",
       "isDefault": false
+    },
+    {
+      "id": "DELETE Instrument Data",
+      "isDefault": false
+    },
+    {
+      "id": "DELETE Investment Data",
+      "isDefault": false
     }
   ],
   "viewMode": false,
