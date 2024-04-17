@@ -5,8 +5,8 @@
     "widgetName": "Image1",
     "displayName": "Image",
     "iconSVG": "/static/media/icon.69b0f0dd810281fbd6e34fc2c3f39344.svg",
-    "topRow": 12,
-    "bottomRow": 42,
+    "topRow": 15,
+    "bottomRow": 45,
     "parentRowSpace": 10,
     "type": "IMAGE_WIDGET",
     "hideCard": false,
@@ -34,9 +34,9 @@
     "mobileTopRow": 24,
     "maxZoomLevel": 1,
     "enableDownload": false,
-    "originalTopRow": 24,
+    "originalTopRow": 12,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
-    "originalBottomRow": 36,
+    "originalBottomRow": 42,
     "enableRotation": false
 }
