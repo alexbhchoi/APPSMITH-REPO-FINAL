@@ -1,22 +1,6 @@
 {
   "pages": [
     {
-      "id": "UpdateInvestmentTransaction",
-      "isDefault": true
-    },
-    {
-      "id": "CreateIncome",
-      "isDefault": false
-    },
-    {
-      "id": "GetTradeInfo",
-      "isDefault": false
-    },
-    {
-      "id": "GetRetirementAccountInfo",
-      "isDefault": false
-    },
-    {
       "id": "Historical Data",
       "isDefault": false
     },
