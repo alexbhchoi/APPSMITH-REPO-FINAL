@@ -72,13 +72,13 @@
     ],
     "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
-    "bottomRow": 41,
-    "columnWidthMap": {},
+    "bottomRow": 42,
+    "columnWidthMap": {"quotes": 149},
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 42,
     "parentColumnSpace": 12.296875,
-    "dynamicTriggerPathList": [],
+    "dynamicTriggerPathList": [{"key": "onRowSelected"}],
     "borderWidth": "1",
     "primaryColumns": {
         "accountNum": {
@@ -206,10 +206,11 @@
             "verticalAlignment": "CENTER"
         }
     },
+    "onRowSelected": "",
     "key": "1hyvrfg7l2",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 59,
+    "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "03qpzev9g8",
     "minWidth": 450,
