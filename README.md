@@ -39,14 +39,6 @@ To access the UI, follow these steps:
 2. Enjoy!
 
 
-### Additional Information
-
-
-- Make sure you have the necessary permissions and credentials to access the UI.
-- This UI requires a connection to the database/API.
-- ...
-
-
 ## Endpoints and Actions
 
 
@@ -55,19 +47,19 @@ List of supported HTTP endpoints and actions:
 
 - **GET**
   - Return all trade information for a particular account 
-  - Return all historical data for a particular {assetID} 
+  - Return all historical data for a particular asset
+  - Return all retirement account information for a particular user
 
 
 - **PUT**
   - Update user information for a specific user 
-  - Update investment transaction details for a specific transactionID 
+  - Update investment transaction details for a specific transaction
 
 
 - **DELETE**
-  - Delete investment data for a particular {InvestmentID} [Ethan-4]
-  - Delete instrument information for a specific {instrumentID}
+  - Delete investment data for a particular investment
+  - Delete instrument information for a specific instrument
 
 
 - **POST**
-  - Add a new retirement transaction for {account_num} to the system 
-  - Add information of a trade that took place, reflecting the transaction that occurred
+  - Add a new source of income 
